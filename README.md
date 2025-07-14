@@ -32,7 +32,7 @@ Tampilan Layar Admin
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/05899416-b41d-4036-947b-56b1c69ffce7" />
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/7493152e-a9c3-4ef0-b828-570a41adcf76" />
 <img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/b78cd42f-cc3d-47ec-ae40-598d8094a0b6" />
-<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/62aa7539-ac26-4b40-9de2-261d8cfcbe73" />
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/b2c184b4-2334-4086-9946-bcf5f82139bc" />
 <img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/d243cd51-a148-4480-b77e-2c67fde54321" />
 <img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/896d3ad7-3bad-41cf-a36c-30f8fe965f77" />
 <img width="1893" height="876" alt="image" src="https://github.com/user-attachments/assets/007c7312-e739-495d-a27d-217b6e5fb45d" />
