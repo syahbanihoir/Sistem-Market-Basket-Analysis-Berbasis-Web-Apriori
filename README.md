@@ -24,7 +24,7 @@ Aturan dengan nilai confidence tertinggi sebesar 57,33% dan nilai lift sebesar 1
 <img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/1872af80-4f17-40f1-9665-11dc10d22b86" />
 
 # TAMPILAN SISTEM
-Tampilan Layar Admin
+<h2>Tampilan Layar Admin</h2>
 <img width="1919" height="860" alt="image" src="https://github.com/user-attachments/assets/0a173239-cd24-4ca8-aa12-9fc9bad46097" />
 <img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/435efa95-81d2-4550-8082-f8ddac3cce50" />
 <img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/9f66abe2-23f0-4771-8189-3ecdb2974120" />
@@ -39,8 +39,7 @@ Tampilan Layar Admin
 <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/22bd47f3-b1e3-42ce-8b69-542de4263ce8" />
 <img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/109b94cb-4139-4dd7-9d64-531b6d9bf30d" />
 
-
-Tampilan Layar User
+<h2>Tampilan Layar User</h2>
 <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/e02ebbb5-2724-4fb3-9026-1074e21804fc" />
 <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/14f21c20-049e-4e5c-8bce-d96188faa67b" />
 <img width="1917" height="873" alt="image" src="https://github.com/user-attachments/assets/adecee25-3749-48b1-a1f1-8166c954ba0c" />
