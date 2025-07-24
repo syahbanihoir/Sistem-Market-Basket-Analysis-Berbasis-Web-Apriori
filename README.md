@@ -1,4 +1,4 @@
-# 📌 Projek Skripsi dengan judul : IMPLEMENTASI DATA MINING DENGAN ALGORITMA APRIORI BERBASIS WEB UNTUK ANALISIS DATA PENJUALAN PADA ROEMAH PANGAN ABADI
+# 📌 IMPLEMENTASI DATA MINING DENGAN ALGORITMA APRIORI BERBASIS WEB UNTUK ANALISIS DATA PENJUALAN PADA ROEMAH PANGAN ABADI
 
 # Pemahaman Bisnis
 Roemah Pangan Abadi merupakan unit bisnis dari PT Sentral Niaga Anugerah yang bergerak dalam penjualan produk makanan beku (frozen food). Permasalahan bisnis yang dihadapi adalah ketidakseimbangan stok—baik kelebihan maupun kekurangan stok—yang berdampak pada kerugian operasional dan penurunan kepuasan pelanggan.
